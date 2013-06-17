@@ -4,7 +4,7 @@
   <title><![CDATA[IWDev]]></title>
   <link href="http://iwdev.github.com/atom.xml" rel="self"/>
   <link href="http://iwdev.github.com/"/>
-  <updated>2013-06-17T20:06:36+01:00</updated>
+  <updated>2013-06-17T22:00:45+01:00</updated>
   <id>http://iwdev.github.com/</id>
   <author>
     <name><![CDATA[IWDev]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IWDev Workshop Number 1]]></title>
+    <link href="http://iwdev.github.com/blog/2013/06/17/IWDev-Workshop-Number-1-TDD/"/>
+    <updated>2013-06-17T22:00:00+01:00</updated>
+    <id>http://iwdev.github.com/blog/2013/06/17/IWDev-Workshop-Number-1-TDD</id>
+    <content type="html"><![CDATA[<p>In case you missed it from the <a href="https://www.facebook.com/groups/iwdev/">IWDev Facebook Page</a>, <a href="https://twitter.com/MattDrivenDev">Matt Ball</a> has posted an update on the very first workshop that he is leading which is based on test driven development or TDD. This comes directly from the <a href="http://iwdev-workshop-1.eventbrite.co.uk/">SIGNUP page</a>:</p>
+
+<p>In the first of three IWDev Workshops in 2013 - Matt Ball will be giving an Introduction to Test-Driven-Development. This workshop is ideal for developers and students who are not already using TDD as part of their every day work, who would like to add another string to their bow. If you&#8217;ve heard the buzz and don&#8217;t really know how or why to get started - this 1 day session will give you the answers.
+In this one-day hands on workshop, we will cover:</p>
+
+<ul>
+<li>Test-Driven-Development as a methodology - what is it, and why is it important?</li>
+<li>Why to write tests-first, rather than afterwards.</li>
+<li>Outside-In and End-to-End testing and development.</li>
+<li>Design by Interface and Mocking.</li>
+<li>Hands-on sessions that will get you up and running developing code from requirements, through to tests and then production code - as well as bug hunting in an existing code base.</li>
+</ul>
+
+
+<p>Teas and coffees and a two course lunch will be included as part of the price.</p>
+
+<p>Attendees will be expected to bring a laptop setup for C# development (either .NET or Mono stack).</p>
+
+<p>The workshop is going to be help at the Lakeside Park Hotel, Wootton, PO33 4LU. For up-to-date details on the event, head over to the <a href="http://iwdev-workshop-1.eventbrite.co.uk/">Eventbrite signup page</a>.</p>
+
+<p>See you there!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IWDev Monthly #1]]></title>

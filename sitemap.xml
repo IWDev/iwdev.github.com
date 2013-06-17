@@ -2,50 +2,54 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-gets-a-website/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/10/26/iwdev-number-5/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/11/05/iwdev-6-the-christmas-one/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/11/06/web-design-compeition/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/11/07/ux-the-common-sense-approach/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/11/07/website-competition-help/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2012/12/05/the-ruby-way/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/2013/06/11/IWDev-Monthly-Number-1/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iwdev.github.com/blog/2013/06/17/IWDev-Workshop-Number-1-TDD/</loc>
+        <lastmod>2013-06-17T22:00:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/about/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/blog/archives/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T22:00:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T22:00:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://iwdev.github.com/sponsors/</loc>
-        <lastmod>2013-06-17T19:56:07+01:00</lastmod>
+        <lastmod>2013-06-17T20:52:16+01:00</lastmod>
     </url>
 </urlset>
