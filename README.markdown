@@ -1,3 +1,8 @@
+## IWDev Notes:
+
+To get the theme - make sure you go here:
+https://github.com/geeksoflondon/octopress-design
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
