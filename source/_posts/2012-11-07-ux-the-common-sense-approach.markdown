@@ -4,6 +4,7 @@ title: "IWDev #5 - UX: The Common Sense Approach"
 date: 2012-11-07 10:21
 comments: true
 categories: [Slides,UX,John Godwin]
+description: "John Godwin demonstrates how a good user experience starts with common sense."
 ---
 
 Presented last night at **IWDev #5** by **John Godwin** (of [Summit Media](http://www.summit.co.uk)).

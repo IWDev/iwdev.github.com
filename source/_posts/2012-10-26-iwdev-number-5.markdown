@@ -4,6 +4,7 @@ title: "IWDev #5"
 date: 2012-10-26 23:27
 comments: true
 categories: [News, Events]
+description: "Where we had Git and UX talks."
 ---
 
 ###When:###

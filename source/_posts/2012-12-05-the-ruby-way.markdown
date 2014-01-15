@@ -4,6 +4,7 @@ title: "IWDev #6 - The Ruby Way"
 date: 2012-12-05 16:57
 comments: true
 categories: [slides,Ruby,Brian Prior]
+description: "Brian Prior gives the uninitiated an introduction into Ruby."
 ---
 
 Presented last night at **IWDev #6** by **Brian Prior**.

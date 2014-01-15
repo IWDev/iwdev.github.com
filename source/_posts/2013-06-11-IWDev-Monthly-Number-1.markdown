@@ -4,6 +4,7 @@ title: "IWDev Monthly #1"
 date: 2013-06-11 20:00
 comments: true
 categories: [News]
+description: "It's our birthday month. So we want to talk about it."
 ---
 
 Hello and welcome to the very first edition of IWDev Monthly. We hope to deliever you these posts every month so that you catch up on the things you might have missed since the last meeting. We planning on showcasing projects that our community is working, updates on upcoming events and general news in case you've been living under a rock for the last month.

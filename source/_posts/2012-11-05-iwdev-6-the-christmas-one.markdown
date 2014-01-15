@@ -4,6 +4,7 @@ title: "IWDev #6 - the Christmas One"
 date: 2012-11-05 20:29
 comments: true
 categories: [News, Events]
+description: "Where we had clouds, precious stones and lots of dead bunnies."
 ---
 
 ###When:###
